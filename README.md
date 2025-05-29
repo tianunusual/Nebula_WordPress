@@ -1,9 +1,9 @@
-# Nebula_wordperss
-这是一个极简的wordperss博客主题。之前用的是emlog，但是emlog扩展性不高；我呢又比较喜欢这个模版，然后就写了wordperss版本的，后来写完了才发现原（enmlog）搭建的博客文章数据较多，迁移起来又麻烦，就搁浅了没有换为wordperss的；所以都写出来了就分享给喜欢的伙伴。
+# Nebula_WordPress
+这是一个极简的WordPress博客主题。之前用的是emlog，但是emlog扩展性不高；我呢又比较喜欢这个模版，然后就写了WordPress版本的，后来写完了才发现原（enmlog）搭建的博客文章数据较多，迁移起来又麻烦，就搁浅了没有换为WordPresss的；所以都写出来了就分享给喜欢的伙伴。
 <img src="https://apac.ele.cm/Github/image/Nebula_wordperss.png"/>
 
 demo：https://blog.xk.ee/ （这个是emlog版）
-【较于emlog版，wordperss版的全局宽度更美观】
+【较于emlog版，WordPress版的全局宽度更美观】
 
 --------------------------------------------------------------------
 PS:基于php7.4环境下开发，可能不适于其他php版本</br>
