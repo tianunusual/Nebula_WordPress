@@ -1,0 +1,13 @@
+/*
+Theme Name:Nebula
+Theme URI: https://nebula.ele.cm
+Author: 消失的狐狸菌
+Author URI: https://xk.ee
+/*
+Description: 这是一个极度简约的个人博客系统，开发于2025年5月27日。本博客主题已经完全开源免费；可到Github下载本主题。
+Version: 1.2
+Tags: 极简、博客、简约
+nation{display:-ms-flexbox;display:flex;padding-left:0;list-style:none;width:100%;justify-content:center;border-radius:.25rem;margin:30px auto}
+.page-link,.page-num{position:relative;display:block;padding:.5rem .75rem;margin-left:-1px;line-height:1.25;color:#08c;background-color:#fff;}
+.page-num:not(:disabled){cursor:pointer}
+.page-num-current{z-index:1;color:#333;}
