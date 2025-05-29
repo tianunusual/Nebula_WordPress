@@ -3,6 +3,7 @@
 <img src="https://apac.ele.cm/Github/image/Nebula_wordperss.png"/>
 
 demo：https://blog.xk.ee/ （这个是emlog版）
+【较于emloh版，wordperss版的全局宽度更美观】
 
 --------------------------------------------------------------------
 PS:基于php7.4环境下开发，可能不适于其他php版本</br>
