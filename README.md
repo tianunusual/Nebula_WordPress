@@ -46,8 +46,9 @@ PS:基于php7.4环境下开发，可能不适于其他php版本</br>
 ### belongs to us
 
 - *.xk.ee
-- *.ele.cm
+- *.ku.cm
 - *.ku.kg
+- *.ele.cm
 - *.douke.org
 ---
 
