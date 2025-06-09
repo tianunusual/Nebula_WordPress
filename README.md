@@ -52,5 +52,5 @@ PS:基于php7.4环境下开发，可能不适于其他php版本</br>
 - *.douke.org
 ---
 
-> [@Blog](https://blog.xk.ee/) · [@OIPPA列表](https://list.xk.ee) · 
+> [@Blog](https://blog.xk.ee/) · [@IPPA列表](https://list.xk.ee) · 
 
