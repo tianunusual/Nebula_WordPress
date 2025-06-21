@@ -1,6 +1,6 @@
 # Nebula_WordPress
 这是一个极简的WordPress博客主题。之前用的是emlog，但是emlog扩展性不高；我呢又比较喜欢这个模版，然后就写了WordPress版本的，后来写完了才发现原（enmlog）搭建的博客文章数据较多，迁移起来又麻烦，就搁浅了没有换为WordPresss的；所以都写出来了就分享给喜欢的伙伴。
-<img src="https://apac.ele.cm/Github/image/Nebula_wordperss.png"/>
+<img src="https://i.ku.cm/github/image/Nebula_wordperss.png"/>
 
 demo：[https://blog.ele.cm/ ](https://blog.ele.cm)（这个是emlog版）
 【较于emlog版，WordPress版的全局宽度更美观】
@@ -52,7 +52,8 @@ PS:基于php7.4环境下开发，可能不适于其他php版本</br>
 - *.douke.org
 ---
 
+
 > [@Blog](https://blog.xk.ee/) · [@IPPA列表](https://list.ele.cm) · 
 
 <h2>😊、Sponsored Advertising<h2>
-<a href="https://app.cloudcone.com/?ref=7733" target="_blank"><img src="https://apac.ele.cm/cloudcone_banner.gif" style="width:1200px; height:100px;" /></a>
+<a href="https://app.cloudcone.com/?ref=7733" target="_blank"><img src="https://i.ku.cm/github/image/cloudcone_banner.gif" style="width:1200px; height:100px;" /></a>
